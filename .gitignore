@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# My own files not to be uploaded
+**/test
+**/**/test
